@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sqllite</string>
+    <string name="enter_rollno">Enter Rollno:</string>
+</resources>
